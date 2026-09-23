@@ -17,10 +17,10 @@ An automated end-to-end (E2E) testing framework built with **Playwright & JavaSc
 ## 📊 Execution Snapshots & Proof
 
 ### Playwright Cross-Browser Test Execution (Dashboard View)
-![Dashboard View](screenshots/Dashboard.png)
+![Dashboard View](Screenshots/Dashboard.png) 
 
 ### Detailed HTML Test Report Overview
-![Report Overview](screenshots/Report.png)
+![Report Overview](Screenshots/Report.png)
 
 ## 📂 Project Structure
 
@@ -42,7 +42,7 @@ WingiFy/
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-private-repo-url>
+   git clone <https://github.com/Aman1879/Wingify-QA-Assignment>
    cd WingiFy
 
 1.Install Dependencies:
