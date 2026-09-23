@@ -14,6 +14,14 @@ An automated end-to-end (E2E) testing framework built with **Playwright & JavaSc
 
 ---
 
+## 📊 Execution Snapshots & Proof
+
+### Playwright Cross-Browser Test Execution (Dashboard View)
+![Dashboard View](screenshots/Dashboard.png)
+
+### Detailed HTML Test Report Overview
+![Report Overview](screenshots/Report.png)
+
 ## 📂 Project Structure
 
 ```text

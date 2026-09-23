@@ -1,4 +1,4 @@
-// pages/HomePage.js
+
 const { expect } = require('@playwright/test');
 
 class HomePage {

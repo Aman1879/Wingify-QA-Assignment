@@ -1,4 +1,4 @@
-// pages/DreamsDiaryPage.js
+
 const { expect } = require('@playwright/test');
 
 class DreamsDiaryPage {

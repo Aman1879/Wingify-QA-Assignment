@@ -1,4 +1,4 @@
-// pages/DreamsSummaryPage.js
+
 const { expect } = require('@playwright/test');
 
 class DreamsSummaryPage {
@@ -8,7 +8,7 @@ class DreamsSummaryPage {
 
     async verifyStatistics() {
         const bodyText = await this.page.textContent('body');
-        // Verify stats text presence or elements for summary page
+
         expect(bodyText).toContain('6'); // Good Dreams count
         expect(bodyText).toContain('4'); // Bad Dreams count
         expect(bodyText).toContain('10'); // Total Dreams count
